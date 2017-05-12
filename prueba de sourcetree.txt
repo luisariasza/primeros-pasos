@@ -15,3 +15,5 @@ esto fue como realizar un push (modificacion local a remota) por medio de source
 ahora realizaremos un pull(modificacion remota a local) en teoria debe ser la buena y correcta para que funcione la pagina al 100%
 ahora bien veremos si lo tengo que realizar como la vez pasada en el git tradicional
 para poder realizar el cmabio efectuado
+en teoria siempre hay que hacer todo desde master como he visto con anterioridad 
+es lo mejor para evitar lo que pensaba
