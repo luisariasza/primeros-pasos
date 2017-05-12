@@ -1,4 +1,4 @@
-esta es laprueba ahora en sourc
+﻿esta es laprueba ahora en sourc
 e tree tengo que solucionarlo y dominarlo si es que quiero sal
 ir adelante para alma y para 
 mi 
@@ -13,3 +13,5 @@ no mamesa
 entonces las opciones correctas estan abajo si esta medio desactualizado el curso
 esto fue como realizar un push (modificacion local a remota) por medio de source tree
 ahora realizaremos un pull(modificacion remota a local) en teoria debe ser la buena y correcta para que funcione la pagina al 100%
+ahora bien veremos si lo tengo que realizar como la vez pasada en el git tradicional
+para poder realizar el cmabio efectuado
